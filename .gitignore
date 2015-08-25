@@ -1,0 +1,6 @@
+*.pyc
+.idea/*
+smooth_perms/*
+env/*
+smooth_perm_demo/
+db.sqlite3
